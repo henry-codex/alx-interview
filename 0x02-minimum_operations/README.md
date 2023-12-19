@@ -1,0 +1,1 @@
+Doing minimum operations
